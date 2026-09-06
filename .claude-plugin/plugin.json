@@ -1,0 +1,8 @@
+{
+  "name": "potara",
+  "version": "0.1.0",
+  "description": "Fuse two or more agent skills into one — combined instructions, scripts, and triggers, stronger than any fusee alone.",
+  "author": { "name": "Zeshan Ayub" },
+  "homepage": "https://github.com/ydrgzm/potara",
+  "license": "MIT"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "potara",
+  "owner": { "name": "Zeshan Ayub" },
+  "plugins": [
+    { "name": "potara", "source": "./" }
+  ]
+}
