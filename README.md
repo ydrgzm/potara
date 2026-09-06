@@ -1,5 +1,9 @@
 # Potara
 
+<p align="center">
+  <img src="assets/potara.gif" alt="Two fighters performing the Potara fusion" width="420">
+</p>
+
 **Fuse your agent skills into one.**
 
 Small skills are easy to write and easy to reason about. But real tasks often
